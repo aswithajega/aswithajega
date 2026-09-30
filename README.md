@@ -7,6 +7,7 @@ I'm interested in where language meets machine learning: evaluating LLMs, buildi
 [LinkedIn](https://www.linkedin.com/in/aswitha-jegadheesh-9833a3292/)
 
 🔭 What I'm Up To
+
 🎓 B.S. in Computer Science and Linguistics at SJSU
 
 🧪 Evaluating multimodal generative AI models and training reward models with RLHF preference data at Handshake AI
