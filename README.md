@@ -4,7 +4,7 @@ CS & Linguistics @ San José State University · Dean's Scholar · Class of 2029
 
 I'm interested in where language meets machine learning: evaluating LLMs, building reliable AI workflows, and shipping software that actually holds up in production.
 
-[LinkedIn]([https://www.linkedin.com/in/aswitha-jegadheesh-9833a3292/])
+[LinkedIn](https://www.linkedin.com/in/aswitha-jegadheesh-9833a3292/)
 
 🔭 What I'm Up To
 🎓 B.S. in Computer Science and Linguistics at SJSU
