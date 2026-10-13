@@ -1,4 +1,4 @@
-Hi, I'm Aswitha 👋
+Hi, I'm Aswitha!
 
 CS & Linguistics @ San José State University · Dean's Scholar · Class of 2029
 
