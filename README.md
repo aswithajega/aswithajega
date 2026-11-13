@@ -39,6 +39,7 @@ Refactored a multi-model collaboration framework for local-first inference, remo
 
 
 📜 Certifications
+
 IBM: Cloud Computing Fundamentals · Retrieval-Augmented Generation for Enhanced AI Outputs
 
 Google: Machine Learning Operations for Generative AI · Build Your First Agent with ADK
